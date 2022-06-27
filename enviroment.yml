@@ -1,0 +1,14 @@
+name: ml_course
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - keras
+  - python
+  - pandas
+  - matplotlib
+  - ipykernel
+  - scikit-learn
+  - cookiecutter
+prefix: /home/luis/anaconda3/envs/ml_course
